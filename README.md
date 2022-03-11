@@ -2,6 +2,7 @@
 - 👀 I’m interested in programing and developing
 - 🌱 I’m currently learning c++...
 - 💞️ I’m looking to collaborate on easy projects...
+- Read my blogs at https://bug-buster2516.blogspot.com/2022/03/journey-of-young-programmer.html
 - 📫 How to reach me linkedin  .https://www.linkedin.com/in/mohd-aaquil-kudai-09a905230..   
 instagram https://www.instagram.com/barry_allen2516/    
 twitter https://twitter.com/HumanFrigidSpnr    
