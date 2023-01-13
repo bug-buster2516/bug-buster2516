@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bug-buster2516
 - 👀 I’m interested in programing and developing
-- 🌱 I’m currently learning c++...
+- 🌱 I’m currently learning HTML, CSS, javascript
 - 💞️ I’m looking to collaborate on easy projects...
 - Read my blogs at https://bug-buster2516.blogspot.com/
 - 📫 How to reach me linkedin  .https://www.linkedin.com/in/mohd-aaquil-kudai-09a905230..   
